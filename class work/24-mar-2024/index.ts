@@ -52,7 +52,7 @@ let last ;
 
    //Declare a variable for storing your favorite movie name with a string type annotation.
 
-let moviename:string ="Dune 2021";
+let moviename:string ="june 2021";
 
 console.log(moviename);
 
